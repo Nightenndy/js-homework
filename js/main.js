@@ -88,7 +88,5 @@ console.log('strReplace:', strReplace)
 
 // Задание №9
 
-var myStr = 'Домашняя работа';
-
 console.log(myStr.toUpperCase());
 console.log(myStr.toLowerCase());
